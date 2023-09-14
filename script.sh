@@ -13,11 +13,11 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="iam404"
-password="iam404"
+username="mzcvip"
+password="mzcvip"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="300"
+sshlimiter="200"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
@@ -28,13 +28,20 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+<h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>
-<h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+<h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
+</font></h3>
+
+<h3><font color='green'>--- ۩ SERVER BY MZC VIP ۩ ---
+</font></h3>
+
+<h4><font color='cyan'>GCP SINGAPORE  SERVER 🇸🇬 BY MayZinCho
+
+<h4><font color='blue'>Telegram Channel >> https://t.me/Mayzincho
 </font></h4>
-<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+
+<h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
