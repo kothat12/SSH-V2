@@ -57,7 +57,7 @@ echo -e "\033[1;32m===================================="
 echo ""
 echo -e "\033[1;37m◈─────⪧ SSH ACCOUNT ⪦─────◈"
 echo ""
-echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31m" mzcvip.duckdns.org
+echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31m" 
 echo -e "\033[1;32m◈ Port        :⪧  \033[1;31m" 6000
 echo -e "\033[1;32m◈ Username    :⪧  \033[1;31m" mzcvip
 echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m" mzcvip
