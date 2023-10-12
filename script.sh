@@ -57,12 +57,12 @@ echo -e "\033[1;32m===================================="
 echo ""
 echo -e "\033[1;37m◈─────⪧ SSH ACCOUNT ⪦─────◈"
 echo ""
-echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31mzcvip.duckdns.org"
-echo -e "\033[1;32m◈ Port        :⪧  \033[1;316000"
-echo -e "\033[1;32m◈ Username    :⪧  \033[1;31mzcvip"
-echo -e "\033[1;32m◈ Password    :⪧  \033[1;31mzcvip"
-echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31200"
-echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;312"
+echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31m" mzcvip.duckdns.org
+echo -e "\033[1;32m◈ Port        :⪧  \033[1;31m" 6000
+echo -e "\033[1;32m◈ Username    :⪧  \033[1;31m" mzcvip
+echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m" mzcvip
+echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m" 300
+echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m" 2
 echo ""
 echo -e "\033[1;37m◈────⪧ ✿ ✿ M▪Z▪C ✿ ✿ ⪦────◈"
 echo ""
